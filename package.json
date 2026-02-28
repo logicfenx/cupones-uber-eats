@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/cupones-uber-eats",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a cupones-uber-eats",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/cupones-uber-eats.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://exe2aut.com/es/cupones-uber-eats-2021/"
+    },
+    "homepage": "https://exe2aut.com/es/cupones-uber-eats-2021/"
+}
